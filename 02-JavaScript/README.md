@@ -115,31 +115,31 @@ JavaScript — ядро всего fullstack-стека. Язык, на кото
 
 ---
 
-### 2.2.3 Асинхронность: callbacks → promises → async/await
+### 2.2.3 Работа с API (fetch)
+HTTP-запросы из JavaScript. `fetch` API и HTTP методы. Работа с заголовками и разными типами данных. Правильная обработка ошибок. Timeout и AbortController. CORS и решения. Кэширование запросов. Интеграция с реальными API (JSONPlaceholder, OpenWeatherMap).
+
+→ [Открыть](./2.2.3-Работа-с-API.md)
+
+---
+
+### 2.2.4 Асинхронность: callbacks → promises → async/await
 Синхронный vs асинхронный код. Callbacks и callback hell. Промисы: создание, `then`, `catch`, `finally`. Async/await — современный подход.
 
-→ [Открыть](./2.2.3-Асинхронность.md)
+→ [Открыть](./2.2.4-Асинхронность.md)
 
 ---
 
-### 2.2.4 Event Loop
+### 2.2.5 Event Loop
 Механизм, делающий JavaScript асинхронным. Call Stack, Web APIs, Callback Queue, Microtask Queue. Порядок выполнения кода. Разница между `setTimeout` и `Promise`. Практические задания с debounce, системой уведомлений и реальным API.
 
-→ [Открыть](./2.2.4-Event-Loop.md)
+→ [Открыть](./2.2.5-Event-Loop.md)
 
 ---
 
-### 2.2.5 Модули (ES6+)
+### 2.2.6 Модули (ES6+)
 Организация кода в отдельные файлы. `import` и `export` синтаксис. Named vs default exports. Динамический импорт для оптимизации. Barrel exports. Модульная архитектура погодного приложения.
 
-→ [Открыть](./2.2.5-Модули.md)
-
----
-
-### 2.2.6 Работа с API (fetch)
-HTTP-запросы из JavaScript. `fetch` API и HTTP методы. Работа с заголовками и разными типами данных. Правильная обработка ошибок. Timeout и AbortController. CORS и решения. Кэширование запросов. Интеграция с OpenWeatherMap API.
-
-→ [Открыть](./2.2.6-Работа-с-API.md)
+→ [Открыть](./2.2.6-Модули.md)
 
 ---
 
