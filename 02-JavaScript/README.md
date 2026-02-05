@@ -115,17 +115,17 @@ JavaScript — ядро всего fullstack-стека. Язык, на кото
 
 ---
 
-### 2.2.3 Работа с API (fetch)
-HTTP-запросы из JavaScript. `fetch` API и HTTP методы. Работа с заголовками и разными типами данных. Правильная обработка ошибок. Timeout и AbortController. CORS и решения. Кэширование запросов. Интеграция с реальными API (JSONPlaceholder, OpenWeatherMap).
+### 2.2.3 Асинхронность: callbacks → promises → async/await
+Синхронный vs асинхронный код. Callbacks и callback hell. Промисы: создание, `then`, `catch`, `finally`. Async/await — современный подход.
 
-→ [Открыть](./2.2.3-Работа-с-API.md)
+→ [Открыть](./2.2.3-Асинхронность.md)
 
 ---
 
-### 2.2.4 Асинхронность: callbacks → promises → async/await
-Синхронный vs асинхронный код. Callbacks и callback hell. Промисы: создание, `then`, `catch`, `finally`. Async/await — современный подход.
+### 2.2.4 Работа с API (fetch)
+HTTP-запросы из JavaScript. `fetch` API и HTTP методы. Работа с заголовками и разными типами данных. Правильная обработка ошибок. Timeout и AbortController. CORS и решения. Кэширование запросов. Интеграция с реальными API (JSONPlaceholder, OpenWeatherMap).
 
-→ [Открыть](./2.2.4-Асинхронность.md)
+→ [Открыть](./2.2.4-Работа-с-API.md)
 
 ---
 
