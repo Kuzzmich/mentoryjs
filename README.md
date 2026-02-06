@@ -69,12 +69,12 @@
 
 ## 🔵 TypeScript
 
-- Зачем TypeScript
-- Базовые типы
-- Интерфейсы vs Type aliases
-- Функции с типами
-- Классы и модификаторы
-- Generics
+- 🔒 Зачем TypeScript
+- 🔒 Базовые типы
+- 🔒 Интерфейсы vs Type aliases
+- 🔒 Функции с типами
+- 🔒 Классы и модификаторы
+- 🔒 Generics
 - 🔒 Utility Types
 - 🔒 Conditional и Mapped Types
 
@@ -83,19 +83,19 @@
 ## 🟢 Vue.js
 
 **Основы**
-- Реактивность: ref, reactive
-- Компоненты и props
-- События и emit
-- Директивы: v-if, v-for, v-model
-- Computed и watchers
-- Lifecycle hooks
+- 🔒 Реактивность: ref, reactive
+- 🔒 Компоненты и props
+- 🔒 События и emit
+- 🔒 Директивы: v-if, v-for, v-model
+- 🔒 Computed и watchers
+- 🔒 Lifecycle hooks
 
 **Продвинутый уровень**
-- Composition API vs Options API
-- Composables
-- Vue Router
-- Pinia (state management)
-- Слоты и динамические компоненты
+- 🔒 Composition API vs Options API
+- 🔒 Composables
+- 🔒 Vue Router
+- 🔒 Pinia (state management)
+- 🔒 Слоты и динамические компоненты
 
 **Экспертный уровень**
 - 🔒 SSR с Nuxt
@@ -107,18 +107,18 @@
 ## 🟣 Node.js
 
 **Основы**
-- Что такое Node.js
-- Модули и npm
-- Встроенные модули (fs, path, http)
-- Environment variables
+- 🔒 Что такое Node.js
+- 🔒 Модули и npm
+- 🔒 Встроенные модули (fs, path, http)
+- 🔒 Environment variables
 
 **Бэкенд разработка**
-- Express.js
-- REST API дизайн
-- Middleware
-- Валидация данных
-- Аутентификация (JWT)
-- Загрузка файлов
+- 🔒 Express.js
+- 🔒 REST API дизайн
+- 🔒 Middleware
+- 🔒 Валидация данных
+- 🔒 Аутентификация (JWT)
+- 🔒 Загрузка файлов
 
 **Тестирование**
 - 🔒 Unit тесты (Jest, Mocha)
@@ -138,17 +138,17 @@
 ## 🟠 MongoDB
 
 **Основы**
-- Документо-ориентированные БД
-- CRUD операции
-- Mongoose ODM
-- Схемы и модели
-- Индексы
+- 🔒 Документо-ориентированные БД
+- 🔒 CRUD операции
+- 🔒 Mongoose ODM
+- 🔒 Схемы и модели
+- 🔒 Индексы
 
 **Продвинутый уровень**
-- Aggregation Pipeline
-- Связи между документами
-- Транзакции
-- Валидация на уровне схемы
+- 🔒 Aggregation Pipeline
+- 🔒 Связи между документами
+- 🔒 Транзакции
+- 🔒 Валидация на уровне схемы
 
 **Экспертный уровень**
 - 🔒 Шардинг и репликация
@@ -168,9 +168,9 @@
 
 ## 🎯 Софт-скиллы
 
-- Code Review: как давать и принимать
-- Работа с задачами
-- Оценка сроков
+- 🔒 Code Review: как давать и принимать
+- 🔒 Работа с задачами
+- 🔒 Оценка сроков
 - 🔒 Технический долг
 - 🔒 Документирование кода
 
@@ -178,18 +178,11 @@
 
 ## 💼 Карьера
 
-- Как составить резюме
-- GitHub-профиль
-- Подготовка к собеседованиям
+- 🔒 Как составить резюме
+- 🔒 GitHub-профиль
+- 🔒 Подготовка к собеседованиям
 - 🔒 Тестовые задания
 - 🔒 Как торговаться по зарплате
-
----
-
-## 📋 Чеклисты
-
-- [Junior → Middle](./checklist-junior-middle.md)
-- [Middle → Senior](./checklist-middle-senior.md)
 
 ---
 
@@ -197,8 +190,8 @@
 
 | Уровень | Проект |
 |---------|--------|
-| Junior | Todo-приложение |
-| Junior | Блог с авторизацией |
-| Middle | Чат на WebSockets |
-| Middle | Дашборд с аналитикой |
+| Junior | Погодное приложение с API |
+| Junior | 🔒 Блог с авторизацией |
+| Middle | 🔒 Чат на WebSockets |
+| Middle | 🔒 Дашборд с аналитикой |
 | Senior | 🔒 SaaS с мультитенантностью |
