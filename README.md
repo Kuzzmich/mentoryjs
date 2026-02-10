@@ -69,14 +69,25 @@
 
 ## 🔵 TypeScript
 
+→ [Перейти к разделу TypeScript](./03-TypeScript/README.md)
+
+**Основы**
 - 🔒 Зачем TypeScript
+- 🔒 Настройка TypeScript в проектах
 - 🔒 Базовые типы
 - 🔒 Интерфейсы vs Type aliases
 - 🔒 Функции с типами
+
+**Продвинутый уровень**
 - 🔒 Классы и модификаторы
 - 🔒 Generics
 - 🔒 Utility Types
-- 🔒 Conditional и Mapped Types
+- 🔒 Type Guards и Narrowing
+
+**Экспертный уровень**
+- 🔒 Conditional Types
+- 🔒 Mapped Types
+- 🔒 Продвинутая настройка и миграция
 
 ---
 
