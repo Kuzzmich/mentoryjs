@@ -83,10 +83,11 @@
 - 🔒 Generics
 - 🔒 Utility Types
 - 🔒 Type Guards и Narrowing
-
-**Экспертный уровень**
 - 🔒 Conditional Types
 - 🔒 Mapped Types
+- 🔒 Template Literal Types
+- 🔒 Декораторы и Metadata
+- 🔒 Declaration Merging и Module Augmentation
 - 🔒 Продвинутая настройка и миграция
 
 ---
