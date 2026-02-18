@@ -227,7 +227,7 @@ TypeScript — надстройка над JavaScript, добавляющая с
 ### 3.2.4 Type Guards и Narrowing
 Type Guards: `typeof`, `instanceof`, кастомные guards. Narrowing типов. Discriminated Unions. Asserting функции.
 
-→ [Открыть](./3.2.4-Type-Guards-и-Narrowing.md) 🔒
+→ [Открыть](./3.2.4-Type-Guards-и-Narrowing.md)
 
 ---
 

@@ -83,7 +83,7 @@
 - [Классы и модификаторы](./03-TypeScript/3.2.1-Классы-и-модификаторы.md)
 - [Generics](./03-TypeScript/3.2.2-Generics.md)
 - [Utility Types](./03-TypeScript/3.2.3-Utility-Types.md)
-- 🔒 Type Guards и Narrowing
+- [Type Guards и Narrowing](./03-TypeScript/3.2.4-Type-Guards-и-Narrowing.md)
 - 🔒 Conditional Types
 - 🔒 Mapped Types
 - 🔒 Template Literal Types
