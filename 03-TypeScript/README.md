@@ -220,7 +220,7 @@ TypeScript — надстройка над JavaScript, добавляющая с
 ### 3.2.3 Utility Types
 Встроенные хелперы TypeScript: `Partial`, `Required`, `Pick`, `Omit`, `Record`, `Exclude`, `Extract`, `ReturnType`, `Parameters` и другие. Когда применять каждый.
 
-→ [Открыть](./3.2.3-Utility-Types.md) 🔒
+→ [Открыть](./3.2.3-Utility-Types.md)
 
 ---
 

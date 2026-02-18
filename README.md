@@ -82,7 +82,7 @@
 **Продвинутый уровень**
 - [Классы и модификаторы](./03-TypeScript/3.2.1-Классы-и-модификаторы.md)
 - [Generics](./03-TypeScript/3.2.2-Generics.md)
-- 🔒 Utility Types
+- [Utility Types](./03-TypeScript/3.2.3-Utility-Types.md)
 - 🔒 Type Guards и Narrowing
 - 🔒 Conditional Types
 - 🔒 Mapped Types
