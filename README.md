@@ -88,7 +88,7 @@
 - [Mapped Types](./03-TypeScript/3.2.6-Mapped-Types.md)
 - [Template Literal Types](./03-TypeScript/3.2.7-Template-Literal-Types.md)
 - [Декораторы и Metadata](./03-TypeScript/3.2.8-Декораторы-и-Metadata.md)
-- 🔒 Declaration Merging и Module Augmentation
+- [Declaration Merging и Module Augmentation](./03-TypeScript/3.2.9-Declaration-Merging.md)
 - 🔒 Продвинутая настройка и миграция
 
 ---
