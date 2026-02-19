@@ -85,7 +85,7 @@
 - [Utility Types](./03-TypeScript/3.2.3-Utility-Types.md)
 - [Type Guards и Narrowing](./03-TypeScript/3.2.4-Type-Guards-и-Narrowing.md)
 - [Conditional Types](./03-TypeScript/3.2.5-Conditional-Types.md)
-- 🔒 Mapped Types
+- [Mapped Types](./03-TypeScript/3.2.6-Mapped-Types.md)
 - 🔒 Template Literal Types
 - 🔒 Декораторы и Metadata
 - 🔒 Declaration Merging и Module Augmentation
