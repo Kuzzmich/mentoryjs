@@ -248,7 +248,7 @@ Type Guards: `typeof`, `instanceof`, кастомные guards. Narrowing тип
 ### 3.2.7 Template Literal Types
 String Template Types. Комбинирование строковых литералов. Type-safe роутинг и API endpoints. Автогенерация названий методов.
 
-→ [Открыть](./3.2.7-Template-Literal-Types.md) 🔒
+→ [Открыть](./3.2.7-Template-Literal-Types.md)
 
 ---
 
