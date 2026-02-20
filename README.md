@@ -89,7 +89,7 @@
 - [Template Literal Types](./03-TypeScript/3.2.7-Template-Literal-Types.md)
 - [Декораторы и Metadata](./03-TypeScript/3.2.8-Декораторы-и-Metadata.md)
 - [Declaration Merging и Module Augmentation](./03-TypeScript/3.2.9-Declaration-Merging.md)
-- 🔒 Продвинутая настройка и миграция
+- [Продвинутая настройка и миграция](./03-TypeScript/3.2.10-Продвинутая-настройка.md)
 
 ---
 
