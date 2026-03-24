@@ -95,25 +95,27 @@
 
 ## 🟢 Vue.js
 
+→ [Перейти к разделу Vue.js](./04-Vue/README.md)
+
 **Основы**
-- 🔒 Реактивность: ref, reactive
-- 🔒 Компоненты и props
-- 🔒 События и emit
-- 🔒 Директивы: v-if, v-for, v-model
-- 🔒 Computed и watchers
+- 🔒 Введение в Vue 3 — SFC, Vite, первый компонент
+- 🔒 Реактивность: ref, reactive, computed
+- 🔒 Template и директивы: v-if, v-for, v-model, v-bind, v-on
+- 🔒 Компоненты: props и emit с TypeScript
 - 🔒 Lifecycle hooks
+- 🔒 Watchers: watch и watchEffect
 
 **Продвинутый уровень**
-- 🔒 Composition API vs Options API
 - 🔒 Composables
+- 🔒 Слоты и динамические компоненты
 - 🔒 Vue Router
 - 🔒 Pinia (state management)
-- 🔒 Слоты и динамические компоненты
+- 🔒 Vue + TypeScript углублённо
 
 **Экспертный уровень**
-- 🔒 SSR с Nuxt
 - 🔒 Оптимизация рендеринга
-- 🔒 Тестирование (Vitest)
+- 🔒 Тестирование (Vitest + Vue Test Utils)
+- 🔒 SSR с Nuxt
 
 ---
 
