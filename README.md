@@ -98,7 +98,7 @@
 → [Перейти к разделу Vue.js](./04-Vue/README.md)
 
 **Основы**
-- 🔒 Введение в Vue 3 — SFC, Vite, первый компонент
+- [Введение в Vue 3 — SFC, Vite, первый компонент](./04-Vue/4.1.1-Введение-в-Vue.md)
 - 🔒 Реактивность: ref, reactive, computed
 - 🔒 Template и директивы: v-if, v-for, v-model, v-bind, v-on
 - 🔒 Компоненты: props и emit с TypeScript
