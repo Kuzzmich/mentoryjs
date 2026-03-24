@@ -99,8 +99,8 @@
 
 **Основы**
 - [Введение в Vue 3 — SFC, Vite, первый компонент](./04-Vue/4.1.1-Введение-в-Vue.md)
-- 🔒 Реактивность: ref, reactive, computed
-- 🔒 Template и директивы: v-if, v-for, v-model, v-bind, v-on
+- [Реактивность: ref, reactive, computed](./04-Vue/4.1.2-Реактивность.md)
+- [Template и директивы: v-if, v-for, v-model, v-bind, v-on](./04-Vue/4.1.3-Template-и-директивы.md)
 - 🔒 Компоненты: props и emit с TypeScript
 - 🔒 Lifecycle hooks
 - 🔒 Watchers: watch и watchEffect
