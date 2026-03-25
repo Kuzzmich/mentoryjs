@@ -103,7 +103,7 @@
 - [Template и директивы: v-if, v-for, v-model, v-bind, v-on](./04-Vue/4.1.3-Template-и-директивы.md)
 - [Компоненты: props и emit](./04-Vue/4.1.4-Компоненты-props-emit.md)
 - [Lifecycle hooks](./04-Vue/4.1.5-Lifecycle-hooks.md)
-- 🔒 Watchers: watch и watchEffect
+- [Watchers: watch и watchEffect](./04-Vue/4.1.6-Watchers.md)
 
 **Продвинутый уровень**
 - 🔒 Composables
