@@ -106,7 +106,7 @@
 - [Watchers: watch и watchEffect](./04-Vue/4.1.6-Watchers.md)
 
 **Продвинутый уровень**
-- 🔒 Composables
+- [Composables](./04-Vue/4.2.1-Composables.md)
 - 🔒 Слоты и динамические компоненты
 - 🔒 Vue Router
 - 🔒 Pinia (state management)

@@ -184,7 +184,7 @@ Vue.js — прогрессивный фреймворк для построен
 ### 4.2.1 Composables
 Что такое composable. Создание `useWeather`, `useLocalStorage`, `useDebounce`. Правила composables. Переиспользование логики между компонентами.
 
-→ [Открыть](./4.2.1-Composables.md) 🔒
+→ [Открыть](./4.2.1-Composables.md)
 
 ---
 
