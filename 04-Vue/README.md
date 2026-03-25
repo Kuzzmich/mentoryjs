@@ -166,7 +166,7 @@ Vue.js — прогрессивный фреймворк для построен
 ### 4.1.5 Lifecycle hooks
 Жизненный цикл компонента. `onMounted`, `onUnmounted`, `onUpdated`, `onBeforeUnmount`. Загрузка данных и очистка ресурсов.
 
-→ [Открыть](./4.1.5-Lifecycle-hooks.md) 🔒
+→ [Открыть](./4.1.5-Lifecycle-hooks.md)
 
 ---
 
