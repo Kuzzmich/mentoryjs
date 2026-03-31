@@ -212,7 +212,7 @@ Vue.js — прогрессивный фреймворк для построен
 ### 4.2.5 Vue + TypeScript углублённо
 Типизация `ref<T>` и `reactive<T>`. `defineComponent` и `PropType`. Типизация `provide` / `inject`. Шаблонные ссылки `ref<HTMLElement | null>`. Типизация composables.
 
-→ [Открыть](./4.2.5-Vue-TypeScript.md) 🔒
+→ [Открыть](./4.2.5-Vue-TypeScript.md)
 
 ---
 

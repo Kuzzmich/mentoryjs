@@ -110,7 +110,7 @@
 - [Слоты и динамические компоненты](./04-Vue/4.2.2-Слоты.md)
 - [Vue Router](./04-Vue/4.2.3-Vue-Router.md)
 - [Pinia (state management)](./04-Vue/4.2.4-Pinia.md)
-- 🔒 Vue + TypeScript углублённо
+- [Vue + TypeScript углублённо](./04-Vue/4.2.5-Vue-TypeScript.md)
 
 **Экспертный уровень**
 - [Оптимизация рендеринга](./04-Vue/4.3.1-Оптимизация-рендеринга.md)
