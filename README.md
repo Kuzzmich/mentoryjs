@@ -109,7 +109,7 @@
 - [Composables](./04-Vue/4.2.1-Composables.md)
 - [Слоты и динамические компоненты](./04-Vue/4.2.2-Слоты.md)
 - [Vue Router](./04-Vue/4.2.3-Vue-Router.md)
-- 🔒 Pinia (state management)
+- [Pinia (state management)](./04-Vue/4.2.4-Pinia.md)
 - 🔒 Vue + TypeScript углублённо
 
 **Экспертный уровень**

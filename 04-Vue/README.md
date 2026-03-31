@@ -205,7 +205,7 @@ Vue.js — прогрессивный фреймворк для построен
 ### 4.2.4 Pinia
 Зачем стор. `defineStore`. Actions и getters. `storeToRefs`. Полная типизация с TypeScript. Persistence через плагины.
 
-→ [Открыть](./4.2.4-Pinia.md) 🔒
+→ [Открыть](./4.2.4-Pinia.md)
 
 ---
 
