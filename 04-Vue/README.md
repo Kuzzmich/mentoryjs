@@ -237,7 +237,7 @@ Vitest + Vue Test Utils. Монтирование компонентов. Тес
 ### 4.3.3 SSR с Nuxt *(опционально)*
 Что такое SSR. Структура Nuxt 3. File-based routing. `useFetch` и `useAsyncData`. Деплой Nuxt-приложения.
 
-→ [Открыть](./4.3.3-SSR-Nuxt.md) 🔒
+→ [Открыть](./4.3.3-SSR-Nuxt.md)
 
 ---
 
