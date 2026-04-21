@@ -162,7 +162,7 @@ CommonJS vs ESM. `package.json` и `npm`-скрипты. Переменные о
 ### 5.2.3 Middleware
 `express.json()`, `cors`, `helmet`. Кастомный `asyncHandler`. Error middleware — единая точка обработки ошибок с типизированным `AppError`.
 
-→ [Открыть](./5.2.3-Middleware.md) 🔒
+→ [Открыть](./5.2.3-Middleware.md)
 
 ---
 

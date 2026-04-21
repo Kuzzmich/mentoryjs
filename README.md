@@ -132,7 +132,7 @@
 **Express + TypeScript**
 - [Express + TypeScript: инициализация проекта](./05-Node/5.2.1-Express-TypeScript.md)
 - [Роутинг и структура проекта](./05-Node/5.2.2-Роутинг-и-структура.md)
-- 🔒 Middleware
+- [Middleware](./05-Node/5.2.3-Middleware.md)
 - 🔒 Валидация (Zod)
 - 🔒 Аутентификация (JWT)
 - 🔒 Загрузка файлов (Multer)
