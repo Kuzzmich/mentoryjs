@@ -148,7 +148,7 @@ CommonJS vs ESM. `package.json` и `npm`-скрипты. Переменные о
 ### 5.2.1 Express + TypeScript: инициализация проекта
 Настройка проекта с нуля. Типизация Express. Первый маршрут — прокси к OpenWeatherMap без раскрытия ключа браузеру.
 
-→ [Открыть](./5.2.1-Express-TypeScript.md) 🔒
+→ [Открыть](./5.2.1-Express-TypeScript.md)
 
 ---
 

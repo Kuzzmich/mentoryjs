@@ -130,7 +130,7 @@
 - [Модули и окружение](./05-Node/5.1.2-Модули-и-окружение.md)
 
 **Express + TypeScript**
-- 🔒 Express + TypeScript: инициализация проекта
+- [Express + TypeScript: инициализация проекта](./05-Node/5.2.1-Express-TypeScript.md)
 - 🔒 Роутинг и структура проекта
 - 🔒 Middleware
 - 🔒 Валидация (Zod)
