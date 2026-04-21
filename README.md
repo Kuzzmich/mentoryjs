@@ -121,32 +121,29 @@
 
 ## 🟣 Node.js
 
+→ [Перейти к разделу Node.js](./05-Node/README.md)
+
+*Весь раздел написан на TypeScript. Сквозной проект — Weather API: бэкенд для погодного приложения.*
+
 **Основы**
 - 🔒 Что такое Node.js
-- 🔒 Модули и npm
-- 🔒 Встроенные модули (fs, path, http)
-- 🔒 Environment variables
+- 🔒 Модули и окружение
 
-**Бэкенд разработка**
-- 🔒 Express.js
-- 🔒 REST API дизайн
+**Express + TypeScript**
+- 🔒 Express + TypeScript: инициализация проекта
+- 🔒 Роутинг и структура проекта
 - 🔒 Middleware
-- 🔒 Валидация данных
+- 🔒 Валидация (Zod)
 - 🔒 Аутентификация (JWT)
-- 🔒 Загрузка файлов
+- 🔒 Загрузка файлов (Multer)
 
 **Тестирование**
-- 🔒 Unit тесты (Jest, Mocha)
-- 🔒 Интеграционные тесты
-- 🔒 Тестирование API (Supertest)
-- 🔒 Моки и стабы
-- 🔒 Test coverage
+- 🔒 Тестирование API (Vitest + Supertest)
 
 **Экспертный уровень**
-- 🔒 Streams и Buffer
 - 🔒 WebSockets
-- 🔒 Очереди задач
-- 🔒 Docker для Node.js
+- 🔒 Streams и Buffer
+- 🔒 Docker + деплой
 
 ---
 
