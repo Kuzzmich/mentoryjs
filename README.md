@@ -142,7 +142,7 @@
 
 **Экспертный уровень**
 - [WebSockets](./05-Node/5.4.1-WebSockets.md)
-- 🔒 Streams и Buffer
+- [Streams и Buffer](./05-Node/5.4.2-Streams-и-Buffer.md)
 - 🔒 Docker + деплой
 
 ---
