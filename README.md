@@ -141,7 +141,7 @@
 - [Тестирование API (Vitest + Supertest)](./05-Node/5.3.1-Тестирование-API.md)
 
 **Экспертный уровень**
-- 🔒 WebSockets
+- [WebSockets](./05-Node/5.4.1-WebSockets.md)
 - 🔒 Streams и Buffer
 - 🔒 Docker + деплой
 
